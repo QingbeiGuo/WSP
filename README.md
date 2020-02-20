@@ -82,7 +82,7 @@ ResNet-WSP (Conv-70/FC-70)|    7.56M|  1.12G| 69.50
 
 For classification:  
 (1) set compressed = true and fine-tuning = false, pruning the pre-trained models, getting the pruned models;  
-(2) set compressed = false and fine-tuning = true, load the pruned models, globally fine-tuning the pruned models;
+(2) set compressed = false and fine-tuning = true, load the pruned models, globally fine-tuning the pruned models;  
 python train.py
 
 For domain adaption:  
