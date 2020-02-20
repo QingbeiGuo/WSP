@@ -80,18 +80,15 @@ ResNet-WSP (Conv-70/FC-70)|    7.56M|  1.12G| 69.50
 
 ## Train 
 
-For classification:
-
+For classification:  
 (1) set compressed = true and fine-tuning = false, pruning the pre-trained models, getting the pruned models;  
 (2) set compressed = false and fine-tuning = true, load the pruned models, globally fine-tuning the pruned models;
 python train.py
 
-For domain adaption:
-
+For domain adaption:  
 python train.py
 
-For objection detection:
-
+For objection detection:  
 CUDA_VISIBLE_DEVICES=0 python trainval_net.py --dataset pascal_voc --net vgg16 --bs 1 --nw 1 --lr 0.001 --lr_decay_step 5 --epochs 6  --cuda --mGPUs  
 CUDA_VISIBLE_DEVICES=0 python trainval_net.py --dataset pascal_voc --net res50 --bs 1 --nw 1 --lr 0.001 --lr_decay_step 5 --epochs 7  --cuda --mGPUs
 
