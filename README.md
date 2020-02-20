@@ -86,6 +86,10 @@ For classification:
 (2) set compressed = false and fine-tuning = true, load the pruned models, globally fine-tuning the pruned models;
 python train.py
 
+For domain adaption:
+
+python train.py
+
 For objection detection:
 
 CUDA_VISIBLE_DEVICES=0 python trainval_net.py --dataset pascal_voc --net vgg16 --bs 1 --nw 1 --lr 0.001 --lr_decay_step 5 --epochs 6  --cuda --mGPUs  
