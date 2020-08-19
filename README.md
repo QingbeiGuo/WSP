@@ -55,10 +55,7 @@ ResNet-WSP (Conv-40/FC-40)   |  15.53M|   2.51G| 78.22| 95.74
 ResNet-WSP (Conv-50/FC-50)   |  12.72M|   2.02G| 78.05| 95.34
 ResNet-WSP (Conv-60/FC-60)   |  10.06M|   1.55G| 76.67| 94.94
 ResNet-WSP (Conv-70/FC-70)   |   7.56M|   1.12G| 75.56| 94.41
----------|--------|-------|-----------|-----------
-AlexNet [1] (Our impl.)      |  57.82M| 710.92M| 56.80| 82.40
-GoogLeNet [53] (Our impl.)   |   5.79M|   1.50G| 61.41| 88.82
-MobileNet v2 [54] (Our impl.)|   2.45M| 299.75M| 75.01| 93.87
+
 
 ## Object Detection
 
