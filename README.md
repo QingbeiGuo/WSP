@@ -26,6 +26,8 @@ model    | Params | FLOPs | Top-1 (%) | Top-5 (%)
 [WSP (Conv-40/FC-40)](https://pan.baidu.com/s/14VsODV_BuOW4fN6Pq_3-xA)    |  82.06M |  7.61G   | 71.08   | 90.17
 [WSP (Conv-50/FC-50)](https://pan.baidu.com/s/14VsODV_BuOW4fN6Pq_3-xA)    |  67.70M |  5.76G   | 69.88   | 89.57
 
+baidupan psw: 1234
+
 2) ResNet on ImageNet:
 
 Comparison among several state-of-the-art methods for ResNet50 on ILSVRC2012
@@ -37,6 +39,8 @@ Baseline           | 25.55M|  4.09G| 76.13| 92.86
 [WSP (Conv-50/FC-50)](https://pan.baidu.com/s/14VsODV_BuOW4fN6Pq_3-xA)| 14.29M|  2.02G| 74.95| 92.34
 [WSP (Conv-60/FC-60)](https://pan.baidu.com/s/14VsODV_BuOW4fN6Pq_3-xA)| 11.60M|  1.55G| 73.91| 91.66
 [WSP (Conv-70/FC-70)](https://pan.baidu.com/s/14VsODV_BuOW4fN6Pq_3-xA)|  9.07M|  1.12G| 72.04| 90.82
+
+baidupan psw: 1234
 
 ## Domain Adaptation
 
