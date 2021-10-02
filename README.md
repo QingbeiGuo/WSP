@@ -99,3 +99,12 @@ CUDA_VISIBLE_DEVICES=0 python trainval_net.py --dataset pascal_voc --net res50 -
 This project is contributed by [Qingbei Guo](https://github.com/QingbeiGuo).
 
 ## Citation
+
+@article{GuoWKF21,
+  title={Weak Sub-network Pruning for Strong and Efficient Neural Networks},
+  author={Guo, Qingbei and Wu, Xiao-Jun and Kittlerz, Josef and Feng, Zhiquan},
+  journal={Neural Networks},
+  year={2021},
+  publisher={Elsevier},
+  doi={10.1016/j.neunet.2020.09.015},
+}
