@@ -1,4 +1,4 @@
-# Weak Sub-network Pruning for Strong Sub-networks of Deep Neural Networks
+# Weak Sub-network Pruning for Strong Sub-networks of Deep Neural Networks. in Neural Networks, Elsevier, 2021.9.
 
 ## Introduction
 
