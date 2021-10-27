@@ -104,7 +104,9 @@ This project is contributed by [Qingbei Guo](https://github.com/QingbeiGuo).
   title={Weak Sub-network Pruning for Strong and Efficient Neural Networks},  
   author={Guo, Qingbei and Wu, Xiao-Jun and Kittlerz, Josef and Feng, Zhiquan},  
   journal={Neural Networks},  
-  year={2021},  
-  publisher={Elsevier},  
-  doi={10.1016/j.neunet.2020.09.015},  
+  volume={144},
+  pages={614--626},
+  year={2021},
+  publisher={Elsevier},
+  doi={10.1016/j.neunet.2021.09.015},
 }
