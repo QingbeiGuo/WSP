@@ -107,6 +107,6 @@ This project is contributed by [Qingbei Guo](https://github.com/QingbeiGuo).
   volume={144}, 
   pages={614--626}, 
   year={2021},  
-  publisher={Elsevier}, 
+  publisher={Elsevier},   
   doi={10.1016/j.neunet.2021.09.015}, 
 }
