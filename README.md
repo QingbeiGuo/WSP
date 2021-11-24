@@ -1,4 +1,4 @@
-# Weak Sub-network Pruning for Strong and Efficient Neural Networks. in Neural Networks, Elsevier, 2021.9.
+# Weak Sub-network Pruning for Strong and Efficient Neural Networks, Neural Networks, 2021
 
 ## Introduction
 
